@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "94555969508",
+    "firebase_url": "https://firstprojbootcamps.firebaseio.com",
+    "project_id": "firstprojbootcamps",
+    "storage_bucket": "firstprojbootcamps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94555969508:android:240c73f90d81e1b67c19f1",
+        "android_client_info": {
+          "package_name": "com.example.firstprojbootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94555969508-phfaj4dnegtdj0pp98qc8kijdoe4ngm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEod3x3ed3q8yXB4VJKaHzu_ytvb2bxRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94555969508-phfaj4dnegtdj0pp98qc8kijdoe4ngm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
